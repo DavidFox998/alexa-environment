@@ -1,0 +1,8 @@
+[project]
+name = "alexa-environment"
+version = "0.1.0"
+description = "Alexa as tenant of an Apathy-Refusal (commerce) environment — household layer on the Environment Protocol v0 reference implementation."
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
